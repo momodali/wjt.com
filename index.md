@@ -1,4 +1,4 @@
-## Welcome to WJT
+## WJT
 
 You can use the [editor on GitHub](https://github.com/momodali/wjt.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
